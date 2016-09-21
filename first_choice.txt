@@ -1,0 +1,11 @@
+diff --git a/three_doors.txt b/three_doors.txt
+index 725f43d..219f65d 100644
+--- a/three_doors.txt
++++ b/three_doors.txt
+@@ -2,4 +2,4 @@ You are in a room with three doors.
+ 
+ Which door will you go through?
+ 
+-More 
++second
+
